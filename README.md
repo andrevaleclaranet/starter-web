@@ -1,6 +1,6 @@
 #Started Web Project
 
-This is a sample website project for showing how to use Git and Github together.
+This is a sample website project for showing how to use Git and Giithub together. Adding a little bit more text. 
 
 ##Introduction
 
